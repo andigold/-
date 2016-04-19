@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<compounds>
+	<compound>
+		<type>вода</type>
+		<name>вода</name>
+		<formula>H2O</formula>
+	</compound>
+	<compound>
+		<type>киселина</type>
+		<name>солна киселина</name>
+		<formula>HCl</formula>
+	</compound>
+	<compound>
+		<type>киселина</type>
+		<name>сярна киселина</name>
+		<formula>H2SO4</formula>
+	</compound>
+	<compound>
+		<type>киселина</type>
+		<name>серниста киселина</name>
+		<formula>H2SO3</formula>
+	</compound>
+	<compound>
+		<type>киселина</type>
+		<name>азотна киселина</name>
+		<formula>HNO3</formula>
+	</compound>
+	<compound>
+		<type>основа</type>
+		<name>натриева основа</name>
+		<formula>NaOH</formula>
+	</compound>
+	<compound>
+		<type>основа</type>
+		<name>калиева основа</name>
+		<formula>KOH</formula>
+	</compound>
+	<compound>
+		<type>основа</type>
+		<name>калциева основа</name>
+		<formula>Ca(OH)2</formula>
+	</compound>
+	<compound>
+		<type>оксид</type>
+		<name>въглероден диоксид</name>
+		<formula>CO2</formula>
+	</compound>
+</compounds>

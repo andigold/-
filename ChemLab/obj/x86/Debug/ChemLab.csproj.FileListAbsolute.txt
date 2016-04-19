@@ -1,0 +1,13 @@
+F:\Users\Nord\Desktop\ChemLab\ChemLab\obj\x86\Debug\ChemLab.csproj.GenerateResource.Cache
+F:\Users\Nord\Desktop\ChemLab\ChemLab\bin\Debug\ChemLab.exe
+F:\Users\Nord\Desktop\ChemLab\ChemLab\bin\Debug\ChemLab.pdb
+F:\Users\Nord\Desktop\ChemLab\ChemLab\obj\x86\Debug\ChemLab.exe
+F:\Users\Nord\Desktop\ChemLab\ChemLab\obj\x86\Debug\ChemLab.pdb
+F:\Users\Nord\Desktop\ChemLab\ChemLab\obj\x86\Debug\ChemLab.Properties.Resources.resources
+F:\Users\Nord\Desktop\ChemLab\ChemLab\obj\x86\Debug\ChemLab.FmAddReaction.resources
+F:\Users\Nord\Desktop\ChemLab\ChemLab\obj\x86\Debug\ChemLab.FmAuthors.resources
+F:\Users\Nord\Desktop\ChemLab\ChemLab\obj\x86\Debug\ChemLab.FmSecondReactantMenu.resources
+F:\Users\Nord\Desktop\ChemLab\ChemLab\obj\x86\Debug\ChemLab.FmStoichiometry.resources
+F:\Users\Nord\Desktop\ChemLab\ChemLab\obj\x86\Debug\ChemLab.FmTable.resources
+F:\Users\Nord\Desktop\ChemLab\ChemLab\obj\x86\Debug\ChemLab.FmHelp.resources
+F:\Users\Nord\Desktop\ChemLab\ChemLab\obj\x86\Debug\ChemLab.RoundButton.resources
